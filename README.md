@@ -1,7 +1,7 @@
 # Description
 This project is the .Net backend part of an educational  project. It provides connection to DB, implements CRUD operations and sends responses to requests. 
 
-## The DataBase
+# The DataBase
 The database is managed by MS SQL Server.
 The content can be created by script
 ```
@@ -14,3 +14,4 @@ The content can be created by script
 ```
 it ensures that five products are inserted with the original prices.
 Connection string to DB should be provided in appsettings.json in ConnectionStrings section, under Default name.
+
